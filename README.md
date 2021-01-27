@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there my name is Vanessa 👋
+
+##### I'm still testing my about me! 
+##### Thank you for joining me on my adventure of creating a Github "about me" section!
+
+
 
 <!--
 **trujivan/trujivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
