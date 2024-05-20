@@ -1,21 +1,22 @@
 # About Me: Vanessa Trujillo 👩‍💻
 
-Hello, GitHub community! 👋 I'm Vanessa Trujillo, a passionate Project Manager, Agile Practitioner, and AI Enthusiast, currently serving as Executive Director at Her Tech Hub™.
+Hello, GitHub community! 👋 
 
-## Experience 🚀
-
-With a versatile background encompassing roles as a Data Analyst, Application Developer, and Mathematical Research Assistant. My professional journey spans the realms of Open-source, Nonprofits, and Project Management, reflecting a rich tapestry of experience. My keen interest lies in the dynamic fields of data analysis and science, where I constantly strive to learn and apply cutting-edge skills. Energetic and dedicated, I take pride in my ability to maintain high energy levels, coupled with an exceptional proficiency in advanced mathematics.
+I am a results-oriented AI Project Manager and Analyst with over 5 years of experience leading and managing complex projects in the hospitality and healthcare industries. I possess a strong blend of technical expertise in cloud-based deployment, API development, and LLM frameworks, coupled with exceptional project coordination and stakeholder management skills. I am passionate about leveraging my skills to drive innovation and deliver successful outcomes in dynamic and fast-paced environments.
 
 ## Skills & Certifications 🧠
 
+- Udacity Nanodegree, Generative AI
 - Certified in Machine Learning Foundations for Product Managers from Duke University.
+- Bachelor of Science, Mathematicas
+
 - Proficient in Agile Methodologies, Data Analytics, and various tools including R, SAS, Python, GitHub, and Jira.
 
 ## Connect with Me 🌐
 
 Feel free to connect if you share interests in project management, AI, or just want to discuss exciting opportunities! I'm open to roles in research, project management, product management, and data analysis.
 
-Let's connect and explore new possibilities together! 🚀 #ProjectManagement #AIEnthusiast #TechProfessional #AgilePractitioner
+Let's connect and explore new possibilities together! 🚀 
 
 <!--
 **trujivan/trujivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
