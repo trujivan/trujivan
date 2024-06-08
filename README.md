@@ -2,7 +2,6 @@
 
 Hello, GitHub community! 👋 
 
-
 I am a results-oriented AI Project Manager and Analyst with over 5 years of experience leading and managing complex projects in the hospitality and healthcare industries. I possess a strong blend of technical expertise in cloud-based deployment, API development, and LLM frameworks, coupled with exceptional project coordination and stakeholder management skills. I am passionate about leveraging my skills to drive innovation and deliver successful outcomes in dynamic and fast-paced environments.
 
 ## Skills & Certifications 🧠
