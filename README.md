@@ -1,5 +1,5 @@
 # About Me: Vanessa Trujillo
-
+ 
 Hello, GitHub community! 👋   
 
 I am a results-oriented AI Product Manager with over 5 years of experience leading and managing complex projects in the hospitality and healthcare industries. I possess a strong blend of technical expertise in cloud-based deployment, API development, and LLM frameworks, coupled with exceptional project coordination and stakeholder management skills. I am passionate about leveraging my skills to drive innovation and deliver successful outcomes in dynamic and fast-paced environments.
@@ -8,7 +8,7 @@ I am a results-oriented AI Product Manager with over 5 years of experience leadi
 
 - Udacity Nanodegree, Generative AI
 - Certified in Machine Learning Foundations for Product Managers from Duke University.
-- Bachelor of Science, Mathematicas
+- Bachelor of Science, Mathematics
 
 - Proficient in Agile Methodologies, Data Analytics, and various tools including R, SAS, Python, GitHub, and Jira.
 
