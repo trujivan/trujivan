@@ -1,4 +1,4 @@
-# About Me: Vanessa Trujillo
+# About Me: Vanessa Trujillo 
  
 Hello, GitHub community! 👋 
 
